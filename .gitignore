@@ -5,4 +5,5 @@ __pycache__/
 *.fdb_latexmk
 *.fls
 *.log
+!data/success_rate/stat/*.log
 *.synctex.gz

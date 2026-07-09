@@ -1,0 +1,992 @@
+nohup: ignoring input
+  Activating project at `~/Research/Env/DW_ACSCFT`
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000565                                                                 
+[ Info: resediual norm: 0.000153                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000803                                                                 
+[ Info: resediual norm: 0.00014                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799999992                                                                 
+[ Info: resediual norm: 8.13e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6951049671                                                                 
+[ Info: resediual norm: 2.11e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799864555                                                                 
+[ Info: resediual norm: 0.015                                                           
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799974702                                                                 
+[ Info: resediual norm: 0.00268                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000117                                                                 
+[ Info: resediual norm: 7.87e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7543041997                                                                 
+[ Info: resediual norm: 0.0275                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7585436219                                                                 
+[ Info: resediual norm: 0.000993                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800001793                                                                 
+[ Info: resediual norm: 0.000254                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000294                                                                 
+[ Info: resediual norm: 0.000168                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800591026                                                                 
+[ Info: resediual norm: 0.00549                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6946397595                                                                 
+[ Info: resediual norm: 0.00058                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800005645                                                                 
+[ Info: resediual norm: 0.000869                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000211                                                                 
+[ Info: resediual norm: 0.000125                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799971711                                                                 
+[ Info: resediual norm: 0.00151                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799356055                                                                 
+[ Info: resediual norm: 0.0118                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.758475462                                                                  
+[ Info: resediual norm: 4.26e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000642                                                                 
+[ Info: resediual norm: 0.000192                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7773018283                                                                 
+[ Info: resediual norm: 0.0914                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7800000004                                                                 
+[ Info: resediual norm: 4.54e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799999665                                                                 
+[ Info: resediual norm: 0.00021                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800004758                                                                 
+[ Info: resediual norm: 0.0014                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.6961398841                                                                 
+[ Info: resediual norm: 0.005                                                           
+[ Info: number: 200                                                                     
+[ Info: F: 2.6972759535                                                                 
+[ Info: resediual norm: 0.00621                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000128                                                                 
+[ Info: resediual norm: 0.00022                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.5996729271                                                                 
+[ Info: resediual norm: 0.0263                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.780000001                                                                  
+[ Info: resediual norm: 9.01e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000205                                                                 
+[ Info: resediual norm: 8.15e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.5865304075                                                                 
+[ Info: resediual norm: 0.00204                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799999698                                                                 
+[ Info: resediual norm: 0.000164                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799999226                                                                 
+[ Info: resediual norm: 0.00214                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6217507212                                                                 
+[ Info: resediual norm: 0.0669                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.7586477351                                                                 
+[ Info: resediual norm: 0.00204                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6947041906                                                                 
+[ Info: resediual norm: 0.000264                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000015                                                                 
+[ Info: resediual norm: 7.22e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7583941733                                                                 
+[ Info: resediual norm: 0.00358                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6951575341                                                                 
+[ Info: resediual norm: 0.000345                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6946530035                                                                 
+[ Info: resediual norm: 0.000293                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6947604864                                                                 
+[ Info: resediual norm: 0.00165                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800007554                                                                 
+[ Info: resediual norm: 0.00103                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800008027                                                                 
+[ Info: resediual norm: 0.00123                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7795499496                                                                 
+[ Info: resediual norm: 0.0183                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.7584819153                                                                 
+[ Info: resediual norm: 2.78e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.5979140406                                                                 
+[ Info: resediual norm: 0.0247                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.6946866644                                                                 
+[ Info: resediual norm: 0.00138                                                         
+[ Info: number: 200                                                                     
+[ Info: F: 2.6947032411                                                                 
+[ Info: resediual norm: 0.000774                                                        
+[ Info: number: 300                                                                     
+[ Info: F: 2.6946518886                                                                 
+[ Info: resediual norm: 0.000622                                                        
+[ Info: number: 400                                                                     
+[ Info: F: 2.6946403315                                                                 
+[ Info: resediual norm: 0.000258                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.5872070104                                                                 
+[ Info: resediual norm: 0.00257                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.587995962                                                                  
+[ Info: resediual norm: 0.00443                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6946674413                                                                 
+[ Info: resediual norm: 0.000623                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.694700596                                                                  
+[ Info: resediual norm: 2.1e-5                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.6950199923                                                                 
+[ Info: resediual norm: 0.000806                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799993727                                                                 
+[ Info: resediual norm: 0.00112                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800005924                                                                 
+[ Info: resediual norm: 0.000694                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000767                                                                 
+[ Info: resediual norm: 0.000292                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7821849376                                                                 
+[ Info: resediual norm: 0.0496                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7799973578                                                                 
+[ Info: resediual norm: 0.00233                                                         
+[ Info: number: 300                                                                     
+[ Info: F: 2.78                                                                         
+[ Info: resediual norm: 2.56e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000002                                                                 
+[ Info: resediual norm: 7.2e-5                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.780008631                                                                  
+[ Info: resediual norm: 0.00239                                                         
+[ Info: number: 200                                                                     
+[ Info: F: 2.780000145                                                                  
+[ Info: resediual norm: 0.000525                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.779999722                                                                  
+[ Info: resediual norm: 0.000397                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799914798                                                                 
+[ Info: resediual norm: 0.00202                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799999997                                                                 
+[ Info: resediual norm: 2.18e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7586581966                                                                 
+[ Info: resediual norm: 0.0102                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7584855654                                                                 
+[ Info: resediual norm: 0.00013                                                         
+[ Info: number: 300                                                                     
+[ Info: F: 2.7584798282                                                                 
+[ Info: resediual norm: 9.95e-5                                                         
+[ Info: number: 400                                                                     
+[ Info: F: 2.7584787173                                                                 
+[ Info: resediual norm: 7.96e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7584869274                                                                 
+[ Info: resediual norm: 0.000404                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799999696                                                                 
+[ Info: resediual norm: 0.000176                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799998835                                                                 
+[ Info: resediual norm: 0.000328                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799999333                                                                 
+[ Info: resediual norm: 0.000371                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800337303                                                                 
+[ Info: resediual norm: 0.00721                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799996325                                                                 
+[ Info: resediual norm: 0.000574                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000125                                                                 
+[ Info: resediual norm: 0.000192                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7581993911                                                                 
+[ Info: resediual norm: 0.00274                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800079915                                                                 
+[ Info: resediual norm: 0.00229                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800196376                                                                 
+[ Info: resediual norm: 0.00465                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800033735                                                                 
+[ Info: resediual norm: 0.00171                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800003945                                                                 
+[ Info: resediual norm: 0.000548                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799997583                                                                 
+[ Info: resediual norm: 0.000397                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799999498                                                                 
+[ Info: resediual norm: 0.000218                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.779999772                                                                  
+[ Info: resediual norm: 0.00045                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799981237                                                                 
+[ Info: resediual norm: 0.00213                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6561400665                                                                 
+[ Info: resediual norm: 0.0695                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.6277484607                                                                 
+[ Info: resediual norm: 0.00271                                                         
+[ Info: number: 300                                                                     
+[ Info: F: 2.6287813765                                                                 
+[ Info: resediual norm: 0.00169                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000006                                                                 
+[ Info: resediual norm: 6.96e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800121478                                                                 
+[ Info: resediual norm: 0.00205                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.763217575                                                                  
+[ Info: resediual norm: 0.0214                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7585085944                                                                 
+[ Info: resediual norm: 0.00242                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7802788253                                                                 
+[ Info: resediual norm: 0.0274                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7800000009                                                                 
+[ Info: resediual norm: 2.32e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6576537913                                                                 
+[ Info: resediual norm: 0.0578                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.6952311925                                                                 
+[ Info: resediual norm: 0.00242                                                         
+[ Info: number: 300                                                                     
+[ Info: F: 2.6951023967                                                                 
+[ Info: resediual norm: 7.02e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000539                                                                 
+[ Info: resediual norm: 0.000677                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799977832                                                                 
+[ Info: resediual norm: 0.00288                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799997764                                                                 
+[ Info: resediual norm: 0.000509                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7798545298                                                                 
+[ Info: resediual norm: 0.0124                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7800000207                                                                 
+[ Info: resediual norm: 0.000108                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799296987                                                                 
+[ Info: resediual norm: 0.00779                                                         
+[ Info: number: 200                                                                     
+[ Info: F: 2.7800000176                                                                 
+[ Info: resediual norm: 0.000188                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6959579799                                                                 
+[ Info: resediual norm: 0.00466                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.780245205                                                                  
+[ Info: resediual norm: 0.0146                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799994323                                                                 
+[ Info: resediual norm: 0.00114                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800028916                                                                 
+[ Info: resediual norm: 0.00152                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799094669                                                                 
+[ Info: resediual norm: 0.0129                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7800040637                                                                 
+[ Info: resediual norm: 0.00173                                                         
+[ Info: number: 300                                                                     
+[ Info: F: 2.779999997                                                                  
+[ Info: resediual norm: 0.000118                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799997347                                                                 
+[ Info: resediual norm: 0.00106                                                         
+[ Info: number: 200                                                                     
+[ Info: F: 2.7800000014                                                                 
+[ Info: resediual norm: 2.61e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.780066671                                                                  
+[ Info: resediual norm: 0.00826                                                         
+[ Info: number: 200                                                                     
+[ Info: F: 2.7800000037                                                                 
+[ Info: resediual norm: 5.95e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799967887                                                                 
+[ Info: resediual norm: 0.007                                                           
+[ Info: number: 200                                                                     
+[ Info: F: 2.7800002186                                                                 
+[ Info: resediual norm: 0.00051                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800633433                                                                 
+[ Info: resediual norm: 0.00978                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.694527919                                                                  
+[ Info: resediual norm: 0.0051                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.6951184763                                                                 
+[ Info: resediual norm: 0.00013                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000046                                                                 
+[ Info: resediual norm: 4.49e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799999786                                                                 
+[ Info: resediual norm: 0.000119                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799999636                                                                 
+[ Info: resediual norm: 0.000198                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7608502026                                                                 
+[ Info: resediual norm: 0.0165                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7584837995                                                                 
+[ Info: resediual norm: 0.000252                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000009                                                                 
+[ Info: resediual norm: 2.11e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7805277579                                                                 
+[ Info: resediual norm: 0.0169                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7800000107                                                                 
+[ Info: resediual norm: 8.76e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799882123                                                                 
+[ Info: resediual norm: 0.00489                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000006                                                                 
+[ Info: resediual norm: 2.16e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000035                                                                 
+[ Info: resediual norm: 4.96e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000009                                                                 
+[ Info: resediual norm: 6.85e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800001013                                                                 
+[ Info: resediual norm: 0.000442                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.780322288                                                                  
+[ Info: resediual norm: 0.0156                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7799995263                                                                 
+[ Info: resediual norm: 0.000633                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6948996551                                                                 
+[ Info: resediual norm: 0.00946                                                         
+[ Info: number: 200                                                                     
+[ Info: F: 2.6950590241                                                                 
+[ Info: resediual norm: 0.00177                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000139                                                                 
+[ Info: resediual norm: 0.000216                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7584357762                                                                 
+[ Info: resediual norm: 0.000827                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.779999997                                                                  
+[ Info: resediual norm: 4.46e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799840499                                                                 
+[ Info: resediual norm: 0.00462                                                         
+[ Info: number: 200                                                                     
+[ Info: F: 2.7800000168                                                                 
+[ Info: resediual norm: 0.000845                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800264998                                                                 
+[ Info: resediual norm: 0.0054                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800057127                                                                 
+[ Info: resediual norm: 0.00375                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000001                                                                 
+[ Info: resediual norm: 2.11e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799999275                                                                 
+[ Info: resediual norm: 0.000293                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7584808908                                                                 
+[ Info: resediual norm: 4.56e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000344                                                                 
+[ Info: resediual norm: 0.000191                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800038252                                                                 
+[ Info: resediual norm: 0.00169                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000016                                                                 
+[ Info: resediual norm: 6.87e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7801126335                                                                 
+[ Info: resediual norm: 0.00843                                                         
+[ Info: number: 200                                                                     
+[ Info: F: 2.7799995804                                                                 
+[ Info: resediual norm: 0.000778                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7585898325                                                                 
+[ Info: resediual norm: 0.0039                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7584856891                                                                 
+[ Info: resediual norm: 3.83e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000014                                                                 
+[ Info: resediual norm: 3.41e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6950828004                                                                 
+[ Info: resediual norm: 0.000913                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6946170512                                                                 
+[ Info: resediual norm: 0.000567                                                        
+[ Info: number: 200                                                                     
+[ Info: F: 2.6945947902                                                                 
+[ Info: resediual norm: 0.000117                                                        
+[ Info: number: 300                                                                     
+[ Info: F: 2.6946017797                                                                 
+[ Info: resediual norm: 0.000105                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6949600854                                                                 
+[ Info: resediual norm: 0.00125                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800162896                                                                 
+[ Info: resediual norm: 0.0114                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7800000778                                                                 
+[ Info: resediual norm: 0.000729                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000042                                                                 
+[ Info: resediual norm: 3.88e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7788008316                                                                 
+[ Info: resediual norm: 0.0248                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7800000243                                                                 
+[ Info: resediual norm: 0.000643                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800062443                                                                 
+[ Info: resediual norm: 0.00575                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7806754824                                                                 
+[ Info: resediual norm: 0.0395                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7800091868                                                                 
+[ Info: resediual norm: 0.00425                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6947011531                                                                 
+[ Info: resediual norm: 0.000105                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7581758049                                                                 
+[ Info: resediual norm: 0.00396                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800451382                                                                 
+[ Info: resediual norm: 0.00714                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799997352                                                                 
+[ Info: resediual norm: 0.000404                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000004                                                                 
+[ Info: resediual norm: 5.94e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6951941367                                                                 
+[ Info: resediual norm: 0.00296                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7582263895                                                                 
+[ Info: resediual norm: 0.00305                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.69469586                                                                   
+[ Info: resediual norm: 6.23e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6289891551                                                                 
+[ Info: resediual norm: 0.00251                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799999929                                                                 
+[ Info: resediual norm: 0.000137                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.761126129                                                                  
+[ Info: resediual norm: 0.0106                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7584832121                                                                 
+[ Info: resediual norm: 0.000443                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800281882                                                                 
+[ Info: resediual norm: 0.00376                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7802206359                                                                 
+[ Info: resediual norm: 0.011                                                           
+[ Info: number: 100                                                                     
+[ Info: F: 2.7801978203                                                                 
+[ Info: resediual norm: 0.011                                                           
+[ Info: number: 200                                                                     
+[ Info: F: 2.7799999234                                                                 
+[ Info: resediual norm: 0.000236                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800166829                                                                 
+[ Info: resediual norm: 0.00244                                                         
+[ Info: number: 200                                                                     
+[ Info: F: 2.7800000013                                                                 
+[ Info: resediual norm: 2.99e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7578338567                                                                 
+[ Info: resediual norm: 0.00423                                                         
+[ Info: number: 200                                                                     
+[ Info: F: 2.7584824754                                                                 
+[ Info: resediual norm: 2.66e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6951065721                                                                 
+[ Info: resediual norm: 3.97e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.780017301                                                                  
+[ Info: resediual norm: 0.00452                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800008786                                                                 
+[ Info: resediual norm: 0.000853                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6943106449                                                                 
+[ Info: resediual norm: 0.0136                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.6946287325                                                                 
+[ Info: resediual norm: 0.000488                                                        
+[ Info: number: 300                                                                     
+[ Info: F: 2.694593324                                                                  
+[ Info: resediual norm: 5.04e-5                                                         
+[ Info: number: 400                                                                     
+[ Info: F: 2.6945974528                                                                 
+[ Info: resediual norm: 4.08e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800436729                                                                 
+[ Info: resediual norm: 0.00944                                                         
+[ Info: number: 200                                                                     
+[ Info: F: 2.7800000842                                                                 
+[ Info: resediual norm: 0.000432                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7741129169                                                                 
+[ Info: resediual norm: 0.0419                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799267823                                                                 
+[ Info: resediual norm: 0.00953                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7589485495                                                                 
+[ Info: resediual norm: 0.00448                                                         
+[ Info: number: 200                                                                     
+[ Info: F: 2.758480736                                                                  
+[ Info: resediual norm: 8.26e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7803439379                                                                 
+[ Info: resediual norm: 0.0206                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7799999645                                                                 
+[ Info: resediual norm: 0.00023                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7804357225                                                                 
+[ Info: resediual norm: 0.02                                                            
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799876742                                                                 
+[ Info: resediual norm: 0.00272                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6950737816                                                                 
+[ Info: resediual norm: 0.000192                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6945938318                                                                 
+[ Info: resediual norm: 0.000649                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7608040493                                                                 
+[ Info: resediual norm: 0.0207                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7584723264                                                                 
+[ Info: resediual norm: 0.00102                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7584827841                                                                 
+[ Info: resediual norm: 6.13e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7584803059                                                                 
+[ Info: resediual norm: 0.000144                                                        
+[ Info: number: 200                                                                     
+[ Info: F: 2.7584801079                                                                 
+[ Info: resediual norm: 0.000107                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6945972792                                                                 
+[ Info: resediual norm: 3.27e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6946631285                                                                 
+[ Info: resediual norm: 0.000584                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6946930347                                                                 
+[ Info: resediual norm: 0.00083                                                         
+[ Info: number: 200                                                                     
+[ Info: F: 2.6946482499                                                                 
+[ Info: resediual norm: 0.000716                                                        
+[ Info: number: 300                                                                     
+[ Info: F: 2.6946193472                                                                 
+[ Info: resediual norm: 0.000598                                                        
+[ Info: number: 400                                                                     
+[ Info: F: 2.694657331                                                                  
+[ Info: resediual norm: 0.000582                                                        
+[ Info: number: 500                                                                     
+[ Info: F: 2.694653818                                                                  
+[ Info: resediual norm: 0.000477                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.694663136                                                                  
+[ Info: resediual norm: 0.00043                                                         
+[ Info: number: 200                                                                     
+[ Info: F: 2.6946796047                                                                 
+[ Info: resediual norm: 0.000137                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7619018365                                                                 
+[ Info: resediual norm: 0.0262                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7584973153                                                                 
+[ Info: resediual norm: 0.000307                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6947215848                                                                 
+[ Info: resediual norm: 0.00016                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6965176416                                                                 
+[ Info: resediual norm: 0.00676                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6946639014                                                                 
+[ Info: resediual norm: 0.000339                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6947308855                                                                 
+[ Info: resediual norm: 0.00106                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7584851381                                                                 
+[ Info: resediual norm: 7.72e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6280437823                                                                 
+[ Info: resediual norm: 0.000809                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6946980078                                                                 
+[ Info: resediual norm: 2.47e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6948789209                                                                 
+[ Info: resediual norm: 0.00125                                                         
+[ Info: number: 200                                                                     
+[ Info: F: 2.6946801916                                                                 
+[ Info: resediual norm: 0.00124                                                         
+[ Info: number: 300                                                                     
+[ Info: F: 2.6946087381                                                                 
+[ Info: resediual norm: 0.00117                                                         
+[ Info: number: 400                                                                     
+[ Info: F: 2.6947258771                                                                 
+[ Info: resediual norm: 0.000888                                                        
+[ Info: number: 500                                                                     
+[ Info: F: 2.6946253251                                                                 
+[ Info: resediual norm: 0.000518                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6946963167                                                                 
+[ Info: resediual norm: 0.000566                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.694762387                                                                  
+[ Info: resediual norm: 0.00049                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6946034985                                                                 
+[ Info: resediual norm: 0.000843                                                        
+[ Info: number: 200                                                                     
+[ Info: F: 2.6945958188                                                                 
+[ Info: resediual norm: 7.1e-5                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.6951107452                                                                 
+[ Info: resediual norm: 3.85e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6946984419                                                                 
+[ Info: resediual norm: 4.71e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6946826061                                                                 
+[ Info: resediual norm: 0.000512                                                        
+[ Info: number: 200                                                                     
+[ Info: F: 2.6946858458                                                                 
+[ Info: resediual norm: 0.000502                                                        
+[ Info: number: 300                                                                     
+[ Info: F: 2.6947102356                                                                 
+[ Info: resediual norm: 0.000419                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.694828514                                                                  
+[ Info: resediual norm: 0.00125                                                         
+[ Info: number: 200                                                                     
+[ Info: F: 2.6945594877                                                                 
+[ Info: resediual norm: 0.000886                                                        
+[ Info: number: 300                                                                     
+[ Info: F: 2.6945721752                                                                 
+[ Info: resediual norm: 0.000579                                                        
+[ Info: number: 400                                                                     
+[ Info: F: 2.6946086646                                                                 
+[ Info: resediual norm: 0.000255                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000012                                                                 
+[ Info: resediual norm: 2.84e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000163                                                                 
+[ Info: resediual norm: 8.84e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000166                                                                 
+[ Info: resediual norm: 8.58e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800001432                                                                 
+[ Info: resediual norm: 0.000388                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799999971                                                                 
+[ Info: resediual norm: 6.58e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800023436                                                                 
+[ Info: resediual norm: 0.00578                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800001204                                                                 
+[ Info: resediual norm: 0.000227                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7597090526                                                                 
+[ Info: resediual norm: 0.00859                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799968601                                                                 
+[ Info: resediual norm: 0.00199                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000063                                                                 
+[ Info: resediual norm: 0.000111                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000008                                                                 
+[ Info: resediual norm: 2.54e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6277739233                                                                 
+[ Info: resediual norm: 0.00185                                                         
+[ Info: number: 200                                                                     
+[ Info: F: 2.628001462                                                                  
+[ Info: resediual norm: 0.00025                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7581863492                                                                 
+[ Info: resediual norm: 0.00354                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7584649471                                                                 
+[ Info: resediual norm: 0.00807                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7559310506                                                                 
+[ Info: resediual norm: 0.0137                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799999999                                                                 
+[ Info: resediual norm: 3.89e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6951118995                                                                 
+[ Info: resediual norm: 8.82e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800011092                                                                 
+[ Info: resediual norm: 0.000992                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799999733                                                                 
+[ Info: resediual norm: 0.00011                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800001545                                                                 
+[ Info: resediual norm: 0.000389                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7775357603                                                                 
+[ Info: resediual norm: 0.0604                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.7798567235                                                                 
+[ Info: resediual norm: 0.0159                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000054                                                                 
+[ Info: resediual norm: 8.4e-5                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000012                                                                 
+[ Info: resediual norm: 2.45e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7803530489                                                                 
+[ Info: resediual norm: 0.0158                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000003                                                                 
+[ Info: resediual norm: 2.15e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7562582903                                                                 
+[ Info: resediual norm: 0.0514                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7585014302                                                                 
+[ Info: resediual norm: 0.00153                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.758489029                                                                  
+[ Info: resediual norm: 7.35e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799999901                                                                 
+[ Info: resediual norm: 9.92e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000116                                                                 
+[ Info: resediual norm: 4.9e-5                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000903                                                                 
+[ Info: resediual norm: 0.000186                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6961339287                                                                 
+[ Info: resediual norm: 0.00538                                                         
+[ Info: number: 200                                                                     
+[ Info: F: 2.695106985                                                                  
+[ Info: resediual norm: 0.000518                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000183                                                                 
+[ Info: resediual norm: 6.86e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800055258                                                                 
+[ Info: resediual norm: 0.00226                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799974111                                                                 
+[ Info: resediual norm: 0.00129                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800137808                                                                 
+[ Info: resediual norm: 0.00325                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799999995                                                                 
+[ Info: resediual norm: 2.57e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799999561                                                                 
+[ Info: resediual norm: 0.000285                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7584847501                                                                 
+[ Info: resediual norm: 0.000152                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6952492128                                                                 
+[ Info: resediual norm: 0.000619                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000026                                                                 
+[ Info: resediual norm: 3.66e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800002486                                                                 
+[ Info: resediual norm: 0.000485                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7200576564                                                                 
+[ Info: resediual norm: 0.0111                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7216761193                                                                 
+[ Info: resediual norm: 0.00637                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799999992                                                                 
+[ Info: resediual norm: 3.58e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.599229024                                                                  
+[ Info: resediual norm: 0.0243                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800007452                                                                 
+[ Info: resediual norm: 0.00162                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7584964759                                                                 
+[ Info: resediual norm: 0.000814                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7585800731                                                                 
+[ Info: resediual norm: 0.007                                                           
+[ Info: number: 200                                                                     
+[ Info: F: 2.7584618986                                                                 
+[ Info: resediual norm: 0.00065                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000348                                                                 
+[ Info: resediual norm: 0.00133                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799997531                                                                 
+[ Info: resediual norm: 0.000582                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7584455323                                                                 
+[ Info: resediual norm: 0.000857                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7799530651                                                                 
+[ Info: resediual norm: 0.0061                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.7729144953                                                                 
+[ Info: resediual norm: 0.0458                                                          
+[ Info: number: 200                                                                     
+[ Info: F: 2.7584867303                                                                 
+[ Info: resediual norm: 0.000333                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6951117173                                                                 
+[ Info: resediual norm: 5.9e-5                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.6946844879                                                                 
+[ Info: resediual norm: 7.87e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.588956324                                                                  
+[ Info: resediual norm: 0.012                                                           
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000303                                                                 
+[ Info: resediual norm: 0.000135                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800000013                                                                 
+[ Info: resediual norm: 0.000404                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7206393966                                                                 
+[ Info: resediual norm: 0.00673                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7584860144                                                                 
+[ Info: resediual norm: 0.000158                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800074465                                                                 
+[ Info: resediual norm: 0.00139                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7571659531                                                                 
+[ Info: resediual norm: 0.0183                                                          
+[ Info: number: 100                                                                     
+[ Info: F: 2.7213199459                                                                 
+[ Info: resediual norm: 8.13e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7800064195                                                                 
+[ Info: resediual norm: 0.00259                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6946787448                                                                 
+[ Info: resediual norm: 0.000628                                                        
+[ Info: number: 200                                                                     
+[ Info: F: 2.6946290213                                                                 
+[ Info: resediual norm: 0.000549                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6947493202                                                                 
+[ Info: resediual norm: 0.000654                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6946953569                                                                 
+[ Info: resediual norm: 9.47e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.7584822073                                                                 
+[ Info: resediual norm: 0.000268                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6287486725                                                                 
+[ Info: resediual norm: 0.00218                                                         
+[ Info: number: 200                                                                     
+[ Info: F: 2.6279896863                                                                 
+[ Info: resediual norm: 5.99e-5                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6948910507                                                                 
+[ Info: resediual norm: 0.00129                                                         
+[ Info: number: 100                                                                     
+[ Info: F: 2.6946079726                                                                 
+[ Info: resediual norm: 0.000504                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.694678177                                                                  
+[ Info: resediual norm: 0.000335                                                        
+[ Info: number: 100                                                                     
+[ Info: F: 2.6951339842                                                                 
+[ Info: resediual norm: 0.00174                                                         
