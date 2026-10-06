@@ -1,0 +1,316 @@
+algorithm,calibration_lambda,estimated_seconds,lambda,m,n_eval,tested,time_kind
+aa_etd,1.0,314.3778650388,0.2,10,222,True,calibrated estimate
+aa_etd,1.0,246.40427259797838,0.4,10,174,True,calibrated estimate
+aa_etd,1.0,235.0753405245081,0.6,10,166,True,calibrated estimate
+aa_etd,1.0,246.40427259797838,0.8,10,174,True,calibrated estimate
+aa_etd,1.0,209.58524335919998,1.0,10,148,True,calibrated estimate
+aa_etd,0.8,282.53108934637265,0.2,30,157,True,calibrated estimate
+aa_etd,0.8,228.54425698719314,0.4,30,127,True,calibrated estimate
+aa_etd,0.8,217.74689051535725,0.6,30,121,True,calibrated estimate
+aa_etd,0.8,210.5486462008,0.8,30,117,True,calibrated estimate
+aa_etd,0.8,210.5486462008,1.0,30,117,True,calibrated estimate
+aa_etd,0.8,311.79943060684207,0.2,50,150,True,calibrated estimate
+aa_etd,0.8,261.9115217097473,0.4,50,126,True,calibrated estimate
+aa_etd,0.8,243.20355587333682,0.6,50,117,True,calibrated estimate
+aa_etd,0.8,236.96756726119997,0.8,50,114,True,calibrated estimate
+aa_etd,0.8,236.96756726119997,1.0,50,114,True,calibrated estimate
+aa_etd,1.0,328.2776088027589,0.2,80,141,True,calibrated estimate
+aa_etd,1.0,286.3698289555982,0.4,80,123,True,calibrated estimate
+aa_etd,1.0,267.7441490235268,0.6,80,115,True,calibrated estimate
+aa_etd,1.0,263.0877290405089,0.8,80,113,True,calibrated estimate
+aa_etd,1.0,260.759519049,1.0,80,112,True,calibrated estimate
+aa_etd,1.0,335.0827732890964,0.2,100,138,True,calibrated estimate
+aa_etd,1.0,296.23259667586785,0.4,100,122,True,calibrated estimate
+aa_etd,1.0,276.8075083692536,0.6,100,114,True,calibrated estimate
+aa_etd,1.0,274.3793723309268,0.8,100,113,True,calibrated estimate
+aa_etd,1.0,271.9512362926,1.0,100,112,True,calibrated estimate
+aa_etd,1.0,331.6058531683179,0.2,120,137,True,calibrated estimate
+aa_etd,1.0,292.8781622873464,0.4,120,121,True,calibrated estimate
+aa_etd,1.0,278.3552782069822,0.6,120,115,True,calibrated estimate
+aa_etd,1.0,273.5143168468607,0.8,120,113,True,calibrated estimate
+aa_etd,1.0,271.09383616680003,1.0,120,112,True,calibrated estimate
+aa_etd,,,0.2,160,,False,unavailable
+aa_etd,,,0.4,160,,False,unavailable
+aa_etd,,,0.6,160,,False,unavailable
+aa_etd,,,0.8,160,,False,unavailable
+aa_etd,,,1.0,160,,False,unavailable
+aa_sd,0.2,234.82316916020002,0.2,10,183,True,calibrated estimate
+aa_sd,0.2,272.03558394514977,0.4,10,212,True,calibrated estimate
+aa_sd,0.2,256.6373433444809,0.6,10,200,True,calibrated estimate
+aa_sd,0.2,270.75239722842736,0.8,10,211,True,calibrated estimate
+aa_sd,0.2,347.7436002317716,1.0,10,271,True,calibrated estimate
+aa_sd,0.4,252.66556671651156,0.2,30,148,True,calibrated estimate
+aa_sd,0.4,250.9583669414,0.4,30,147,True,calibrated estimate
+aa_sd,0.4,257.78716604184626,0.6,30,151,True,calibrated estimate
+aa_sd,0.4,252.66556671651156,0.8,30,148,True,calibrated estimate
+aa_sd,0.4,278.27356334318506,1.0,30,163,True,calibrated estimate
+aa_sd,0.6,285.8633298421859,0.2,50,144,True,calibrated estimate
+aa_sd,0.6,285.8633298421859,0.4,50,144,True,calibrated estimate
+aa_sd,0.6,281.8930058166,0.6,50,142,True,calibrated estimate
+aa_sd,0.6,291.8188158805648,0.8,50,147,True,calibrated estimate
+aa_sd,0.6,283.87816782939296,1.0,50,143,True,calibrated estimate
+aa_sd,0.4,327.48286837271655,0.2,80,141,True,calibrated estimate
+aa_sd,0.4,322.8377213036,0.4,80,139,True,calibrated estimate
+aa_sd,0.4,322.8377213036,0.6,80,139,True,calibrated estimate
+aa_sd,0.4,325.1602948381583,0.8,80,140,True,calibrated estimate
+aa_sd,0.4,325.1602948381583,1.0,80,140,True,calibrated estimate
+aa_sd,0.4,347.3312731257912,0.2,100,139,True,calibrated estimate
+aa_sd,0.4,342.33370085059994,0.4,100,137,True,calibrated estimate
+aa_sd,0.4,342.33370085059994,0.6,100,137,True,calibrated estimate
+aa_sd,0.4,344.83248698819557,0.8,100,138,True,calibrated estimate
+aa_sd,0.4,347.3312731257912,1.0,100,139,True,calibrated estimate
+aa_sd,0.4,349.5512165765353,0.2,120,137,True,calibrated estimate
+aa_sd,0.4,346.9997478424,0.4,120,136,True,calibrated estimate
+aa_sd,0.4,349.5512165765353,0.6,120,137,True,calibrated estimate
+aa_sd,0.4,352.1026853106706,0.8,120,138,True,calibrated estimate
+aa_sd,0.4,352.1026853106706,1.0,120,138,True,calibrated estimate
+aa_sd,0.4,352.11663147580583,0.2,160,138,True,calibrated estimate
+aa_sd,0.4,347.01349188919994,0.4,160,136,True,calibrated estimate
+aa_sd,0.4,349.5650616825029,0.6,160,137,True,calibrated estimate
+aa_sd,0.4,352.11663147580583,0.8,160,138,True,calibrated estimate
+aa_sd,0.4,352.11663147580583,1.0,160,138,True,calibrated estimate
+aa_sis,1.0,426.7693627765596,0.2,10,304,True,calibrated estimate
+aa_sis,1.0,322.8847152585813,0.4,10,230,True,calibrated estimate
+aa_sis,1.0,335.51933455130836,0.6,10,239,True,calibrated estimate
+aa_sis,1.0,328.50010161090444,0.8,10,234,True,calibrated estimate
+aa_sis,1.0,284.9808573804,1.0,10,203,True,calibrated estimate
+aa_sis,1.0,309.9204821235911,0.2,30,174,True,calibrated estimate
+aa_sis,1.0,268.9539816130015,0.4,30,151,True,calibrated estimate
+aa_sis,1.0,249.36130745576298,0.6,30,140,True,calibrated estimate
+aa_sis,1.0,247.58015525965038,0.8,30,139,True,calibrated estimate
+aa_sis,1.0,240.4555464752,1.0,30,135,True,calibrated estimate
+aa_sis,1.0,329.8945285852651,0.2,50,159,True,calibrated estimate
+aa_sis,1.0,298.7724032470325,0.4,50,144,True,calibrated estimate
+aa_sis,1.0,280.099128044093,0.6,50,135,True,calibrated estimate
+aa_sis,1.0,273.8747029764465,0.8,50,132,True,calibrated estimate
+aa_sis,1.0,267.6502779088,1.0,50,129,True,calibrated estimate
+aa_sis,1.0,357.96713667806824,0.2,80,151,True,calibrated estimate
+aa_sis,1.0,324.77813062844604,0.4,80,137,True,calibrated estimate
+aa_sis,1.0,310.55427089289367,0.6,80,131,True,calibrated estimate
+aa_sis,1.0,301.0716977358587,0.8,80,127,True,calibrated estimate
+aa_sis,1.0,298.7010544466,1.0,80,126,True,calibrated estimate
+aa_sis,1.0,368.28717912430244,0.2,100,147,True,calibrated estimate
+aa_sis,1.0,330.7068547238634,0.4,100,132,True,calibrated estimate
+aa_sis,1.0,320.6854348837463,0.6,100,128,True,calibrated estimate
+aa_sis,1.0,313.1693700036585,0.8,100,125,True,calibrated estimate
+aa_sis,1.0,308.1586600836,1.0,100,123,True,calibrated estimate
+aa_sis,1.0,365.6586939159919,0.2,120,145,True,calibrated estimate
+aa_sis,1.0,332.87550066835126,0.4,120,132,True,calibrated estimate
+aa_sis,1.0,322.7883642844618,0.6,120,128,True,calibrated estimate
+aa_sis,1.0,317.7447960925171,0.8,120,126,True,calibrated estimate
+aa_sis,1.0,310.1794438046,1.0,120,123,True,calibrated estimate
+aa_sis,,,0.2,160,,False,unavailable
+aa_sis,,,0.4,160,,False,unavailable
+aa_sis,,,0.6,160,,False,unavailable
+aa_sis,,,0.8,160,,False,unavailable
+aa_sis,,,1.0,160,,False,unavailable
+na_etd,0.8,504.4580428717975,0.2,10,418,True,calibrated estimate
+na_etd,0.8,475.49394471647895,0.4,10,394,True,calibrated estimate
+na_etd,0.8,429.63412263722466,0.6,10,356,True,calibrated estimate
+na_etd,0.8,391.0153250968,0.8,10,324,True,calibrated estimate
+na_etd,0.8,415.1520735595654,1.0,10,344,True,calibrated estimate
+na_etd,1.0,434.3826284121369,0.2,30,294,True,calibrated estimate
+na_etd,1.0,398.92282201114614,0.4,30,270,True,calibrated estimate
+na_etd,1.0,387.1028865441492,0.6,30,262,True,calibrated estimate
+na_etd,1.0,404.8327897446446,0.8,30,274,True,calibrated estimate
+na_etd,1.0,384.14790267739994,1.0,30,260,True,calibrated estimate
+na_etd,0.6,465.58202627683477,0.2,50,280,True,calibrated estimate
+na_etd,0.6,392.41913643333214,0.4,50,236,True,calibrated estimate
+na_etd,0.6,382.4423787274,0.6,50,230,True,calibrated estimate
+na_etd,0.6,389.09355053135477,0.8,50,234,True,calibrated estimate
+na_etd,0.6,385.7679646293774,1.0,50,232,True,calibrated estimate
+na_etd,0.6,453.83707923786665,0.2,80,248,True,calibrated estimate
+na_etd,0.6,417.23731478319996,0.4,80,228,True,calibrated estimate
+na_etd,0.6,406.2573854468,0.6,80,222,True,calibrated estimate
+na_etd,0.6,406.2573854468,0.8,80,222,True,calibrated estimate
+na_etd,0.6,409.9173618922666,1.0,80,224,True,calibrated estimate
+na_etd,0.6,467.3430537374349,0.2,100,242,True,calibrated estimate
+na_etd,0.6,428.7196608665725,0.4,100,222,True,calibrated estimate
+na_etd,0.6,420.99498229240004,0.6,100,218,True,calibrated estimate
+na_etd,0.6,420.99498229240004,0.8,100,218,True,calibrated estimate
+na_etd,0.6,424.85732157948627,1.0,100,220,True,calibrated estimate
+na_etd,0.6,462.6098267788624,0.2,120,240,True,calibrated estimate
+na_etd,0.6,427.9140897704477,0.4,120,222,True,calibrated estimate
+na_etd,0.6,420.2039259908,0.6,120,218,True,calibrated estimate
+na_etd,0.6,420.2039259908,0.8,120,218,True,calibrated estimate
+na_etd,0.6,420.2039259908,1.0,120,218,True,calibrated estimate
+na_etd,,,0.2,160,,False,unavailable
+na_etd,,,0.4,160,,False,unavailable
+na_etd,,,0.6,160,,False,unavailable
+na_etd,,,0.8,160,,False,unavailable
+na_etd,,,1.0,160,,False,unavailable
+na_sd,1.0,520.1022273654703,0.2,10,442,True,calibrated estimate
+na_sd,1.0,520.1022273654703,0.4,10,442,True,calibrated estimate
+na_sd,1.0,541.2828610590867,0.6,10,460,True,calibrated estimate
+na_sd,1.0,564.8168984964384,0.8,10,480,True,calibrated estimate
+na_sd,1.0,505.98180490305936,1.0,10,430,True,calibrated estimate
+na_sd,0.8,491.6546766782,0.2,30,338,True,calibrated estimate
+na_sd,0.8,488.7454774079148,0.4,30,336,True,calibrated estimate
+na_sd,0.8,488.7454774079148,0.6,30,336,True,calibrated estimate
+na_sd,0.8,485.8362781376296,0.8,30,334,True,calibrated estimate
+na_sd,0.8,485.8362781376296,1.0,30,334,True,calibrated estimate
+na_sd,0.8,512.8365640323138,0.2,50,308,True,calibrated estimate
+na_sd,0.8,486.19570356310277,0.4,50,292,True,calibrated estimate
+na_sd,0.8,496.1860262390569,0.6,50,298,True,calibrated estimate
+na_sd,0.8,479.53548844579996,0.8,50,288,True,calibrated estimate
+na_sd,0.8,512.8365640323138,1.0,50,308,True,calibrated estimate
+na_sd,0.4,549.4519853380699,0.2,80,288,True,calibrated estimate
+na_sd,0.4,545.636346551,0.4,80,286,True,calibrated estimate
+na_sd,0.4,545.636346551,0.6,80,286,True,calibrated estimate
+na_sd,0.4,545.636346551,0.8,80,286,True,calibrated estimate
+na_sd,0.4,545.636346551,1.0,80,286,True,calibrated estimate
+na_sd,0.2,562.3768625212,0.2,100,274,True,calibrated estimate
+na_sd,0.2,562.3768625212,0.4,100,274,True,calibrated estimate
+na_sd,0.2,562.3768625212,0.6,100,274,True,calibrated estimate
+na_sd,0.2,562.3768625212,0.8,100,274,True,calibrated estimate
+na_sd,0.2,562.3768625212,1.0,100,274,True,calibrated estimate
+na_sd,0.2,558.3289741006,0.2,120,268,True,calibrated estimate
+na_sd,0.2,558.3289741006,0.4,120,268,True,calibrated estimate
+na_sd,0.2,558.3289741006,0.6,120,268,True,calibrated estimate
+na_sd,0.2,558.3289741006,0.8,120,268,True,calibrated estimate
+na_sd,0.2,558.3289741006,1.0,120,268,True,calibrated estimate
+na_sd,0.2,559.8090478138,0.2,160,268,True,calibrated estimate
+na_sd,0.2,559.8090478138,0.4,160,268,True,calibrated estimate
+na_sd,0.2,559.8090478138,0.6,160,268,True,calibrated estimate
+na_sd,0.2,559.8090478138,0.8,160,268,True,calibrated estimate
+na_sd,0.2,559.8090478138,1.0,160,268,True,calibrated estimate
+na_sis,0.8,443.20084836380784,0.2,10,370,True,calibrated estimate
+na_sis,0.8,436.0138075795299,0.4,10,364,True,calibrated estimate
+na_sis,0.8,467.15765097806775,0.6,10,390,True,calibrated estimate
+na_sis,0.8,424.03540627239994,0.8,10,354,True,calibrated estimate
+na_sis,0.8,445.5965286252339,1.0,10,372,True,calibrated estimate
+na_sis,1.0,397.705905515712,0.2,30,272,True,calibrated estimate
+na_sis,1.0,388.932981129336,0.4,30,266,True,calibrated estimate
+na_sis,1.0,388.932981129336,0.6,30,266,True,calibrated estimate
+na_sis,1.0,368.462824227792,0.8,30,252,True,calibrated estimate
+na_sis,1.0,365.538516099,1.0,30,250,True,calibrated estimate
+na_sis,0.8,437.1389749248407,0.2,50,264,True,calibrated estimate
+na_sis,0.8,404.0223859153831,0.4,50,244,True,calibrated estimate
+na_sis,0.8,397.3990681134915,0.6,50,240,True,calibrated estimate
+na_sis,0.8,390.7757503116,0.8,50,236,True,calibrated estimate
+na_sis,0.8,407.33404481632886,1.0,50,246,True,calibrated estimate
+na_sis,0.6,442.6702884335285,0.2,80,242,True,calibrated estimate
+na_sis,0.6,417.06126348282856,0.4,80,228,True,calibrated estimate
+na_sis,0.6,409.74439921119995,0.6,80,224,True,calibrated estimate
+na_sis,0.6,409.74439921119995,0.8,80,224,True,calibrated estimate
+na_sis,0.6,409.74439921119995,1.0,80,224,True,calibrated estimate
+na_sis,0.8,454.0380316549101,0.2,100,236,True,calibrated estimate
+na_sis,0.8,430.9513520792367,0.4,100,224,True,calibrated estimate
+na_sis,0.8,423.2557922206789,0.6,100,220,True,calibrated estimate
+na_sis,0.8,419.40801229140004,0.8,100,218,True,calibrated estimate
+na_sis,0.8,419.40801229140004,1.0,100,218,True,calibrated estimate
+na_sis,1.0,448.48294730568335,0.2,120,234,True,calibrated estimate
+na_sis,1.0,425.4838218028278,0.4,120,222,True,calibrated estimate
+na_sis,1.0,417.81744663520925,0.6,120,218,True,calibrated estimate
+na_sis,1.0,417.81744663520925,0.8,120,218,True,calibrated estimate
+na_sis,1.0,413.9842590514,1.0,120,216,True,calibrated estimate
+na_sis,,,0.2,160,,False,unavailable
+na_sis,,,0.4,160,,False,unavailable
+na_sis,,,0.6,160,,False,unavailable
+na_sis,,,0.8,160,,False,unavailable
+na_sis,,,1.0,160,,False,unavailable
+oa_etd,,,0.2,10,,True,unavailable
+oa_etd,,,0.4,10,,True,unavailable
+oa_etd,,,0.6,10,,True,unavailable
+oa_etd,,,0.8,10,,True,unavailable
+oa_etd,,,1.0,10,,True,unavailable
+oa_etd,,,0.2,30,,True,unavailable
+oa_etd,,,0.4,30,,True,unavailable
+oa_etd,,,0.6,30,,True,unavailable
+oa_etd,,,0.8,30,,True,unavailable
+oa_etd,,,1.0,30,,True,unavailable
+oa_etd,,,0.2,50,,True,unavailable
+oa_etd,,,0.4,50,,True,unavailable
+oa_etd,,,0.6,50,,True,unavailable
+oa_etd,,,0.8,50,,True,unavailable
+oa_etd,,,1.0,50,,True,unavailable
+oa_etd,0.6,643.7334794875318,0.2,80,288,True,calibrated estimate
+oa_etd,0.6,585.6186514782407,0.4,80,262,True,calibrated estimate
+oa_etd,0.6,549.8556803956001,0.6,80,246,True,calibrated estimate
+oa_etd,0.6,594.5593942489008,0.8,80,266,True,calibrated estimate
+oa_etd,0.6,590.0890228635708,1.0,80,264,True,calibrated estimate
+oa_etd,0.8,625.4272334317304,0.2,100,270,True,calibrated estimate
+oa_etd,0.8,560.5681129276991,0.4,100,242,True,calibrated estimate
+oa_etd,0.8,542.036935640833,0.6,100,234,True,calibrated estimate
+oa_etd,0.8,532.7713469974,0.8,100,230,True,calibrated estimate
+oa_etd,0.8,537.4041413191165,1.0,100,232,True,calibrated estimate
+oa_etd,0.8,583.4603648315964,0.2,120,256,True,calibrated estimate
+oa_etd,0.8,524.2026715283874,0.4,120,230,True,calibrated estimate
+oa_etd,0.8,510.52781922764683,0.6,120,224,True,calibrated estimate
+oa_etd,0.8,505.9695351274,0.8,120,222,True,calibrated estimate
+oa_etd,0.8,515.0861033278937,1.0,120,226,True,calibrated estimate
+oa_etd,,,0.2,160,,False,unavailable
+oa_etd,,,0.4,160,,False,unavailable
+oa_etd,,,0.6,160,,False,unavailable
+oa_etd,,,0.8,160,,False,unavailable
+oa_etd,,,1.0,160,,False,unavailable
+oa_sd,0.2,523.1121877682,0.2,10,434,True,calibrated estimate
+oa_sd,0.2,,0.4,10,,True,unavailable
+oa_sd,0.2,,0.6,10,,True,unavailable
+oa_sd,0.2,,0.8,10,,True,unavailable
+oa_sd,0.2,539.9867744704,1.0,10,448,True,calibrated estimate
+oa_sd,,,0.2,30,,True,unavailable
+oa_sd,,,0.4,30,,True,unavailable
+oa_sd,,,0.6,30,,True,unavailable
+oa_sd,,,0.8,30,,True,unavailable
+oa_sd,,,1.0,30,,True,unavailable
+oa_sd,,,0.2,50,,True,unavailable
+oa_sd,,,0.4,50,,True,unavailable
+oa_sd,,,0.6,50,,True,unavailable
+oa_sd,,,0.8,50,,True,unavailable
+oa_sd,,,1.0,50,,True,unavailable
+oa_sd,0.4,754.2126768895338,0.2,80,322,True,calibrated estimate
+oa_sd,0.4,744.8435753132662,0.4,80,318,True,calibrated estimate
+oa_sd,0.4,749.5281261014,0.6,80,320,True,calibrated estimate
+oa_sd,0.4,749.5281261014,0.8,80,320,True,calibrated estimate
+oa_sd,0.4,749.5281261014,1.0,80,320,True,calibrated estimate
+oa_sd,1.0,763.1769931089066,0.2,100,304,True,calibrated estimate
+oa_sd,1.0,763.1769931089066,0.4,100,304,True,calibrated estimate
+oa_sd,1.0,763.1769931089066,0.6,100,304,True,calibrated estimate
+oa_sd,1.0,763.1769931089066,0.8,100,304,True,calibrated estimate
+oa_sd,1.0,753.135190568,1.0,100,300,True,calibrated estimate
+oa_sd,0.2,758.2075501584544,0.2,120,292,True,calibrated estimate
+oa_sd,0.2,763.4007525568,0.4,120,294,True,calibrated estimate
+oa_sd,0.2,763.4007525568,0.6,120,294,True,calibrated estimate
+oa_sd,0.2,758.2075501584544,0.8,120,292,True,calibrated estimate
+oa_sd,0.2,758.2075501584544,1.0,120,292,True,calibrated estimate
+oa_sd,0.2,712.1694917655999,0.2,160,280,True,calibrated estimate
+oa_sd,0.2,712.1694917655999,0.4,160,280,True,calibrated estimate
+oa_sd,0.2,712.1694917655999,0.6,160,280,True,calibrated estimate
+oa_sd,0.2,712.1694917655999,0.8,160,280,True,calibrated estimate
+oa_sd,0.2,712.1694917655999,1.0,160,280,True,calibrated estimate
+oa_sis,,,0.2,10,,True,unavailable
+oa_sis,,,0.4,10,,True,unavailable
+oa_sis,,,0.6,10,,True,unavailable
+oa_sis,,,0.8,10,,True,unavailable
+oa_sis,,,1.0,10,,True,unavailable
+oa_sis,,,0.2,30,,True,unavailable
+oa_sis,,,0.4,30,,True,unavailable
+oa_sis,,,0.6,30,,True,unavailable
+oa_sis,,,0.8,30,,True,unavailable
+oa_sis,,,1.0,30,,True,unavailable
+oa_sis,1.0,,0.2,50,,True,unavailable
+oa_sis,1.0,,0.4,50,,True,unavailable
+oa_sis,1.0,,0.6,50,,True,unavailable
+oa_sis,1.0,647.425396277253,0.8,50,334,True,calibrated estimate
+oa_sis,1.0,585.3966157956,1.0,50,302,True,calibrated estimate
+oa_sis,1.0,642.6005753913778,0.2,80,286,True,calibrated estimate
+oa_sis,1.0,597.6634722171556,0.4,80,266,True,calibrated estimate
+oa_sis,1.0,593.1697618997333,0.6,80,264,True,calibrated estimate
+oa_sis,1.0,575.1949206300444,0.8,80,256,True,calibrated estimate
+oa_sis,1.0,566.2074999952,1.0,80,252,True,calibrated estimate
+oa_sis,1.0,610.8062405087206,0.2,100,268,True,calibrated estimate
+oa_sis,1.0,556.1071741945069,0.4,100,244,True,calibrated estimate
+oa_sis,1.0,551.5489186683224,0.6,100,242,True,calibrated estimate
+oa_sis,1.0,537.8741520897689,0.8,100,236,True,calibrated estimate
+oa_sis,1.0,528.7576410373999,1.0,100,232,True,calibrated estimate
+oa_sis,0.8,569.0977207839568,0.2,120,252,True,calibrated estimate
+oa_sis,0.8,519.4145864298018,0.4,120,230,True,calibrated estimate
+oa_sis,0.8,510.38128927450094,0.6,120,226,True,calibrated estimate
+oa_sis,0.8,501.34799211920006,0.8,120,222,True,calibrated estimate
+oa_sis,0.8,510.38128927450094,1.0,120,226,True,calibrated estimate
+oa_sis,,,0.2,160,,False,unavailable
+oa_sis,,,0.4,160,,False,unavailable
+oa_sis,,,0.6,160,,False,unavailable
+oa_sis,,,0.8,160,,False,unavailable
+oa_sis,,,1.0,160,,False,unavailable
